@@ -1,6 +1,6 @@
 #AIMA APP
 
-Aplicacion cliente de Facebook, ejecutada en java con las siguientes opciones:
+Aplicación cliente de Facebook, ejecutada en java con las siguientes opciones:
 
 0-Publicar
 1-Publicar con URL
@@ -10,7 +10,7 @@ Aplicacion cliente de Facebook, ejecutada en java con las siguientes opciones:
 
 Se crearon dos clases las cuales se describen a continuacion.
 
-aima_login: realiza la coneccion a la aplicacion creada previamente en facebook.
+aima_login: realiza la conexión a la aplicación creada previamente en facebook.
 aima_app: ejecuta el proceso de acuerdo a la solicitud del usuario en base a las opciones anteriormente mencionadas.
 
 
